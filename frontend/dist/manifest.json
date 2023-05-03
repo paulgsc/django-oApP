@@ -1,11 +1,11 @@
 {
-  "_vendor-85299b65.js": {
-    "file": "static/js/vendor-85299b65.js"
+  "_vendor-e34c93cc.js": {
+    "file": "static/js/vendor-e34c93cc.js"
   },
   "index.html": {
-    "file": "static/js/index-7c14cf69.js",
+    "file": "static/js/index-de1bf360.js",
     "imports": [
-      "_vendor-85299b65.js"
+      "_vendor-e34c93cc.js"
     ],
     "isEntry": true,
     "src": "index.html"
