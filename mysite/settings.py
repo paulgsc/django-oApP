@@ -136,3 +136,11 @@ STATIC_ROOT = os.path.join(BASE_DIR, "staticfiles")
 # https://docs.djangoproject.com/en/4.0/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
+VITE_APP_API_KEY="AIzaSyAcQBYk4MRummz0S1XU4Cu8IRz5jp84B88"
+VITE_APP_AUTH_DOMAIN="website1-92e89.firebaseapp.com"
+VITE_APP_PROJECT_ID="website1-92e89"
+VITE_APP_STORAGE_BUCKET="website1-92e89.appspot.com"
+VITE_APP_MESSAGING_SENDER_ID="134778940064"
+VITE_APP_APP_ID="1:134778940064:web:bac0e1dbfe3c4ac8ddf7c5"
+VITE_APP_MEASUREMENT_ID="G-MY61ZM3NE2"
